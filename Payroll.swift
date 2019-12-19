@@ -1,6 +1,7 @@
 //
 //  Payroll.swift
 //  Time to leave
+//  Collects and passes clocked in time
 //
 //  Created by Raffer Li on 12/14/19.
 //  Copyright © 2019 Raffer Li. All rights reserved.
