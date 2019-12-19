@@ -1,5 +1,6 @@
 //
 //  Cruncher.swift
+//  Calculates time difference and pay amount 
 //  Time to leave
 //
 //  Created by Raffer Li on 12/14/19.
